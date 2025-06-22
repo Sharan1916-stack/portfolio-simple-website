@@ -21,16 +21,11 @@ This website was created as a starting point to showcase my profile online, demo
 
 ---
 
-## 🌐 Live Demo
-
-[Visit the Website](#) <!-- Replace # with your actual live link -->
-
----
 
 ## 📬 Contact
 
-- 📧 Email: your.email@example.com  
-- 💼 [LinkedIn](#)  
+- 📧 Email: sharan01916@gmail.com
+- 💼 [LinkedIn]([#](https://www.linkedin.com/in/sharan-gv/))  
 - 🧑‍💻 [GitHub]((https://github.com/Sharan1916-stack))
 
 ---
