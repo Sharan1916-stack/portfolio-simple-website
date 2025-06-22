@@ -14,7 +14,7 @@ body {
 
 .section-one {
     background-color: black;
-    color: greenyellow;
+    color: white;
     padding: 20px;
 }
 
@@ -73,7 +73,7 @@ body {
 
 .section-three {
     background-color: black;
-    color: greenyellow;
+    color:white;
     padding: 20px;
     display: inline-block;
     height: 200px;
@@ -83,7 +83,7 @@ body {
 
 .section-four {
     background-color: black;
-    color: greenyellow;
+    color: white;
     padding: 20px;
     display: inline-block;
     height: 200px;
