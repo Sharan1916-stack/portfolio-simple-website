@@ -25,8 +25,8 @@ This website was created as a starting point to showcase my profile online, demo
 ## 📬 Contact
 
 - 📧 Email: sharan01916@gmail.com
-- 💼 [LinkedIn]([#](https://www.linkedin.com/in/sharan-gv/))  
-- 🧑‍💻 [GitHub]((https://github.com/Sharan1916-stack))
+- 💼 [LinkedIn](https://www.linkedin.com/in/sharan-gv/)
+- 🧑‍💻 [GitHub](https://github.com/Sharan1916-stack)
 
 ---
 
